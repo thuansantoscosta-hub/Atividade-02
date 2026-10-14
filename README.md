@@ -4,7 +4,7 @@
 
 - **Aluno:** [ Thuan dos Santos Costa]
 - **Turma:** [ 101 INT]
-- **Data de Entrega:** [ 30/09/26]
+- **Data de Entrega:** [ 14/10/26]
 
 ---
 **Professor responsável:** @eduardo97mendes
