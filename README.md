@@ -1,6 +1,6 @@
 # Atividade-02
 
-# 📝 Entrega do Exercício 01 - Programação Web
+# 📝 Entrega do Exercício 02 - Programação Web
 
 - **Aluno:** [ Thuan dos Santos Costa]
 - **Turma:** [ 101 INT]
